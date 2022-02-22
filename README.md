@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Freeman
-- 👀 I’m interested in data science, machine learning, artificial intelligence and Data analysis and visualizaton.
-- 🌱 I’m currently learning data science, working on MySql also to get better with datasets and also using tableau to provide meaningful insights through visualization.
+- 👀 I’m interested in data science, machine learning and Data analysis and visualizaton.
+- 🌱 I’m currently learning data science, working on various projects to get better with datasets and provide meaningful insights through visualization.
 - 💞️ I’m looking to collaborate on data analysis and visaulization projects, machine learning models, any other interesting aspects of data science.
+- TOOLS: Python | SQL | M. Excel | Tableau | Power BI
 - 📫 You could reach me through email; ayoolafemi123@gmail.com or through whatsapp; +2348137508804
 
 <!---
