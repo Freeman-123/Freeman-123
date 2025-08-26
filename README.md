@@ -1,5 +1,6 @@
+<img width="1536" height="1024" alt="ChatGPT Image Aug 26, 2025, 09_05_26 AM" src="https://github.com/user-attachments/assets/c0fe3f88-9b7f-4328-8a4d-1c9d68647fbd" />
 
-**👋 Hi, I'm Oluwafemi Ayoola**
+**👋 Hi,
 
 Ph.D. Student | Physical Activity Epidemiologist | Data Analyst | Chronic Disease Researcher
 
